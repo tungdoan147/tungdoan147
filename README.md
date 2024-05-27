@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UC8CclPhBacQS6fqWzVERgtA)](https://www.youtube.com/channel/UC8CclPhBacQS6fqWzVERgtA)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/%C4%91%E1%BB%97-duy-hi%E1%BB%87u-604615181/)
 <!-- [![GoogleScholar](https://img.shields.io/twitter/url?label=Scholar&logo=GoogleScholar&url=https://scholar.google.com.au/citations?user=LXP8FJcAAAAJ)](https://scholar.google.com.au/citations?user=LXP8FJcAAAAJ) -->
-<img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=ntvanank1250&show_bg=1&show_icons=true">
+<img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=tungdoan147&show_bg=1&show_icons=true">
 
 - 📚 I switched to programming and pursued web development with python.
 - 😭 I'm looking for help with Automation
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/ntvananh1250/count.svg"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/tungdoan147/count.svg"/></p>
 <p align="center"><img src="https://streak-stats.demolab.com/demo/preview.php?user=tungdoan147&theme=dark" alt="GitHub Streak" /></p>
 
 <!-- <div align="center">  
